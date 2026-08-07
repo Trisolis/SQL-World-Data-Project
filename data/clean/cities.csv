@@ -47,10 +47,10 @@ Suzhou,China,CN,East and Southeast Asia,31.30408,120.59538,6715559,,Asia/Shangha
 Ahmedabad,India,IN,South Asia,23.02579,72.58727,6357693,,Asia/Kolkata,PPL
 Abidjan,Côte d'Ivoire,CI,Africa,5.35444,-4.00167,6321017,,Africa/Abidjan,PPLA
 Singapore,Singapore,SG,East and Southeast Asia,1.28967,103.85007,5638700,,Asia/Singapore,PPLC
-Sydney,Coral Sea Islands,AU,Australia-Oceania,-33.86785,151.20732,5557233,,Australia/Sydney,PPLA
+Sydney,Australia,AU,Australia-Oceania,-33.86785,151.20732,5557233,,Australia/Sydney,PPLA
 Dar es Salaam,Tanzania,TZ,Africa,-6.82349,39.26951,5383728,,Africa/Dar_es_Salaam,PPLA
 Saint Petersburg,Russia,RU,Central Asia,59.93863,30.31413,5351935,,Europe/Moscow,PPLA
-Melbourne,Coral Sea Islands,AU,Australia-Oceania,-37.814,144.96332,5350705,,Australia/Melbourne,PPLA
+Melbourne,Australia,AU,Australia-Oceania,-37.814,144.96332,5350705,,Australia/Melbourne,PPLA
 Alexandria,Egypt,EG,Africa,31.20176,29.91582,5263542,,Africa/Cairo,PPLA
 Harbin,China,CN,East and Southeast Asia,45.75,126.65,5242897,,Asia/Shanghai,PPLA
 Bangkok,Thailand,TH,East and Southeast Asia,13.75398,100.50144,5104476,,Asia/Bangkok,PPLC
@@ -127,7 +127,7 @@ Kanpur,India,IN,South Asia,26.46523,80.34975,2823249,,Asia/Kolkata,PPL
 Kyiv,Ukraine,UA,Europe,50.45466,30.5238,2797553,,Europe/Kyiv,PPLC
 Toronto,Canada,CA,North America,43.70643,-79.39864,2794356,,America/Toronto,PPLA
 Quito,Ecuador,EC,South America,-0.22985,-78.52495,2781641,,America/Guayaquil,PPLC
-Brisbane,Coral Sea Islands,AU,Australia-Oceania,-27.46794,153.02809,2780063,,Australia/Brisbane,PPLA
+Brisbane,Australia,AU,Australia-Oceania,-27.46794,153.02809,2780063,,Australia/Brisbane,PPLA
 Luanda,Angola,AO,Africa,-8.83682,13.23432,2776168,,Africa/Luanda,PPLC
 Osaka,Japan,JP,East and Southeast Asia,34.69379,135.50107,2753862,,Asia/Tokyo,PPLA
 Linyi,China,CN,East and Southeast Asia,35.06306,118.34278,2743843,,Asia/Shanghai,PPLA2
@@ -165,7 +165,7 @@ Nagoya,Japan,JP,East and Southeast Asia,35.18147,136.90641,2332176,,Asia/Tokyo,P
 Rome,Italy,IT,Europe,41.89193,12.51133,2318895,20.0,Europe/Rome,PPLC
 Queens,United States,US,North America,40.68149,-73.83652,2316841,12.0,America/New_York,PPLA2
 Houston,United States,US,North America,29.76328,-95.36327,2314157,12.0,America/Chicago,PPLA2
-Perth,Coral Sea Islands,AU,Australia-Oceania,-31.95224,115.8614,2309338,,Australia/Perth,PPLA
+Perth,Australia,AU,Australia-Oceania,-31.95224,115.8614,2309338,,Australia/Perth,PPLA
 Mashhad,Iran,IR,Middle East,36.29807,59.60567,2307177,,Asia/Tehran,PPLA
 Shaoxing,China,CN,East and Southeast Asia,30.00237,120.57864,2300000,,Asia/Shanghai,PPLA3
 Nantong,China,CN,East and Southeast Asia,32.03028,120.87472,2273326,,Asia/Shanghai,PPLA2
@@ -321,7 +321,7 @@ Asuncion,Paraguay,PY,South America,-25.28646,-57.647,1482200,,America/Asuncion,P
 Yiwu,China,CN,East and Southeast Asia,29.31506,120.07676,1481384,,Asia/Shanghai,PPLA3
 Zapopan,Mexico,MX,North America,20.72111,-103.38742,1476491,,America/Mexico_City,PPLA2
 Daejeon,South Korea,KR,East and Southeast Asia,36.34913,127.38493,1470336,,Asia/Seoul,PPLA
-Adelaide,Coral Sea Islands,AU,Australia-Oceania,-34.92866,138.59863,1469163,,Australia/Adelaide,PPLA
+Adelaide,Australia,AU,Australia-Oceania,-34.92866,138.59863,1469163,,Australia/Adelaide,PPLA
 Quanzhou,China,CN,East and Southeast Asia,24.91389,118.58583,1469157,,Asia/Shanghai,PPLA2
 Madurai,India,IN,South Asia,9.919,78.11953,1465625,,Asia/Kolkata,PPLA2
 Jinhua,China,CN,East and Southeast Asia,29.10678,119.64421,1463990,,Asia/Shanghai,PPLA2
@@ -858,7 +858,7 @@ Jaboatao dos Guararapes,Brazil,BR,South America,-8.11278,-35.01472,644037,,Ameri
 Las Vegas,United States,US,North America,36.17497,-115.13722,641903,610.0,America/Los_Angeles,PPLA2
 New South Memphis,United States,US,North America,35.08676,-90.05676,641608,79.0,America/Chicago,PPLX
 Hwaseong-si,South Korea,KR,East and Southeast Asia,37.20682,126.8169,640890,,Asia/Seoul,PPL
-Gold Coast,Coral Sea Islands,AU,Australia-Oceania,-28.00029,153.43088,640778,,Australia/Brisbane,PPL
+Gold Coast,Australia,AU,Australia-Oceania,-28.00029,153.43088,640778,,Australia/Brisbane,PPL
 Al Ahmadi,Kuwait,KW,Middle East,29.07694,48.08389,637411,,Asia/Kuwait,PPLA
 Cuenca,Ecuador,EC,South America,-2.8953,-78.9963,636996,,America/Guayaquil,PPLA
 Chisinau,Moldova,MD,Europe,47.00902,28.85938,635994,,Europe/Chisinau,PPLC
@@ -1113,7 +1113,7 @@ Lipetsk,Russia,RU,Central Asia,52.5876,39.55151,509735,,Europe/Moscow,PPLA
 Kikwit,DRC,CD,Africa,-5.04098,18.81619,509367,,Africa/Kinshasa,PPL
 Florianopolis,Brazil,BR,South America,-27.59667,-48.54917,508826,,America/Sao_Paulo,PPLA
 Banan,China,CN,East and Southeast Asia,29.37861,106.54,508703,,Asia/Shanghai,PPLA3
-Newcastle,Coral Sea Islands,AU,Australia-Oceania,-32.92953,151.7801,508437,,Australia/Sydney,PPLA2
+Newcastle,Australia,AU,Australia-Oceania,-32.92953,151.7801,508437,,Australia/Sydney,PPLA2
 Tuen Mun,Hong Kong,HK,East and Southeast Asia,22.39175,113.97157,507900,,Asia/Hong_Kong,PPLA
 Zhangye,China,CN,East and Southeast Asia,38.93417,100.45167,507433,,Asia/Shanghai,PPLA2
 Kirov,Russia,RU,Central Asia,58.59809,49.65783,507155,,Europe/Kirov,PPLA
@@ -1144,7 +1144,7 @@ San Juan,Puerto Rico,PR,Central America and Caribbean,18.46633,-66.10572,418140,
 Panama,Panama,PA,Central America and Caribbean,8.9936,-79.51973,408168,,America/Panama,PPLC
 Tallinn,Estonia,EE,Europe,59.43696,24.75353,394024,,Europe/Tallinn,PPLC
 Wellington,New Zealand,NZ,Australia-Oceania,-41.28664,174.77557,381900,,Pacific/Auckland,PPLC
-Canberra,Coral Sea Islands,AU,Australia-Oceania,-35.28346,149.12807,367752,,Australia/Sydney,PPLC
+Canberra,Australia,AU,Australia-Oceania,-35.28346,149.12807,367752,,Australia/Sydney,PPLC
 Maseru,Lesotho,LS,Africa,-29.31667,27.48333,359753,,Africa/Maseru,PPLC
 Astana,Kazakhstan,KZ,Central Asia,51.1801,71.44598,345604,,Asia/Almaty,PPLC
 Doha,Qatar,QA,Middle East,25.28545,51.53096,344939,,Asia/Qatar,PPLC
@@ -1163,7 +1163,7 @@ Paramaribo,Suriname,SR,South America,5.86638,-55.16682,223757,,America/Paramarib
 Nicosia,Cyprus,CY,Europe,35.17284,33.35397,200452,,Asia/Nicosia,PPLC
 Vientiane,Laos,LA,East and Southeast Asia,17.96667,102.6,196731,,Asia/Vientiane,PPLC
 Port Louis,Mauritius,MU,Africa,-20.16194,57.49889,155226,,Indian/Mauritius,PPLC
-Saint-Denis,,RE,,-20.88231,55.4504,154765,,Indian/Reunion,PPLC
+Saint-Denis,,FR,,-20.88231,55.4504,154765,,Indian/Reunion,PPLC
 Dili,Timor-Leste,TL,East and Southeast Asia,-8.55861,125.57361,150000,,Asia/Dili,PPLC
 Manama,Bahrain,BH,Middle East,26.22787,50.58565,147074,,Asia/Bahrain,PPLC
 Praia,Cabo Verde,CV,Africa,14.93152,-23.51254,137868,0.0,Atlantic/Cape_Verde,PPLC
@@ -1174,17 +1174,17 @@ Male,Maldives,MV,South Asia,4.17521,73.50916,103693,,Indian/Maldives,PPLC
 Thimphu,Bhutan,BT,South Asia,27.46609,89.64191,98676,2320.0,Asia/Thimphu,PPLC
 Bridgetown,Barbados,BB,Central America and Caribbean,13.10732,-59.62021,98511,,America/Barbados,PPLC
 Noumea,New Caledonia,NC,Australia-Oceania,-22.27407,166.44884,93060,,Pacific/Noumea,PPLC
-Fort-de-France,,MQ,,14.60365,-61.07418,89995,,America/Martinique,PPLC
+Fort-de-France,,FR,,14.60365,-61.07418,89995,,America/Martinique,PPLC
 Suva,Fiji,FJ,Australia-Oceania,-18.13683,178.42531,77366,,Pacific/Fiji,PPLC
 Luxembourg,Luxembourg,LU,Europe,49.60982,6.13268,76684,,Europe/Luxembourg,PPLC
 Mbabane,Eswatini,SZ,Africa,-26.31667,31.13333,76218,,Africa/Mbabane,PPLC
 Moroni,Comoros,KM,Africa,-11.70216,43.25506,74749,,Indian/Comoro,PPLC
 Gitega,Burundi,BI,Africa,-3.42708,29.92463,64904,,Africa/Bujumbura,PPLC
 Bandar Seri Begawan,Brunei,BN,East and Southeast Asia,4.89035,114.94006,64409,,Asia/Brunei,PPLC
-Cayenne,,GF,,4.9381,-52.33455,61550,,America/Cayenne,PPLC
+Cayenne,,FR,,4.9381,-52.33455,61550,,America/Cayenne,PPLC
 Kuwait City,Kuwait,KW,Middle East,29.367,47.97429,60064,,Asia/Kuwait,PPLC
 Honiara,Solomon Islands,SB,Australia-Oceania,-9.43333,159.95,56298,,Pacific/Guadalcanal,PPLC
-Mamoudzou,,YT,,-12.78234,45.22878,54831,,Indian/Mayotte,PPLC
+Mamoudzou,,FR,,-12.78234,45.22878,54831,,Indian/Mayotte,PPLC
 Sao Tome,Sao Tome and Principe,ST,Africa,0.33756,6.7299,53300,,Africa/Sao_Tome,PPLC
 Saint John's,Antigua and Barbuda,AG,Central America and Caribbean,17.12096,-61.84329,51737,,America/Antigua,PPLC
 Port of Spain,Trinidad and Tobago,TT,Central America and Caribbean,10.66668,-61.51889,49031,,America/Port_of_Spain,PPLC
@@ -1215,7 +1215,7 @@ Avarua,Cook Islands,CK,Australia-Oceania,-21.2075,-159.77546,13373,,Pacific/Raro
 Torshavn,Faroe Islands,FO,Europe,62.00973,-6.77164,13200,,Atlantic/Faroe,PPLC
 Basseterre,Saint Kitts and Nevis,KN,Central America and Caribbean,17.2955,-62.72499,12920,-22.0,America/St_Kitts,PPLC
 Pago Pago,American Samoa,AS,Australia-Oceania,-14.27806,-170.7025,11500,2.0,Pacific/Pago_Pago,PPLC
-Basse-Terre,,GP,,15.99714,-61.73214,11472,,America/Guadeloupe,PPLC
-Mariehamn,,AX,,60.09726,19.93481,10682,,Europe/Mariehamn,PPLC
+Basse-Terre,,FR,,15.99714,-61.73214,11472,,America/Guadeloupe,PPLC
+Mariehamn,,FI,,60.09726,19.93481,10682,,Europe/Mariehamn,PPLC
 Kralendijk,Navassa Island,BQ,Central America and Caribbean,12.15,-68.26667,10620,,America/Kralendijk,PPLC
 Road Town,British Virgin Islands,VG,Central America and Caribbean,18.42693,-64.62079,8449,9.0,America/Tortola,PPLC

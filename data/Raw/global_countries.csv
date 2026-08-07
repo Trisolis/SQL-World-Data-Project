@@ -13,13 +13,11 @@ id,gec_code,iso_code,name_en,name_es,name_pt,name_it,slug_en,region_slug,region,
 238,ar,AR,Argentina,Argentina,Argentina,Argentina,argentina,south-america,South America,-34.0000000,-64.0000000,country
 209,am,AM,Armenia,Armenia,Armênia,Armenia,armenia,middle-east,Middle East,40.0000000,45.0000000,country
 91,aa,AW,Aruba,Aruba,Aruba,Aruba,aruba,central-america-n-caribbean,Central America and Caribbean,12.5000000,-69.9666667,country
-63,at,AU,Ashmore and Cartier Islands,Islas Ashmore y Cartier,Ilhas Ashmore e Cartier,Isole Ashmore e Cartier,ashmore-and-cartier-islands,australia-oceania,Australia-Oceania,-12.4166667,123.3333333,country
 236,zh,XX,Atlantic Ocean,Océano Atlántico,Oceano Atlântico,Oceano Atlantico,atlantic-ocean,oceans,Oceans,0.0000000,-25.0000000,ocean
 62,as,AU,Australia,Australia,Austrália,Australia,australia,australia-oceania,Australia-Oceania,-27.0000000,133.0000000,country
 154,au,AT,Austria,Austria,Áustria,Austria,austria,europe,Europe,47.3333333,13.3333333,country
 208,aj,AZ,Azerbaijan,Azerbaiyán,Azerbaijão,Azerbaigian,azerbaijan,middle-east,Middle East,40.5000000,47.5000000,country
 210,ba,BH,Bahrain,Bahréin,Bahrein,Bahrain,bahrain,middle-east,Middle East,26.0000000,50.5500000,country
-87,um,UM,"Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll","Isla Baker, Isla Howland, Isla Jarvis, Atolón Johnston, Arrecife Kingman, Islas Midway, Atolón Palmyra","Ilha Baker, Ilha Howland, Ilha Jarvis, Atol Johnston, Recife Kingman, Ilhas Midway, Atol Palmyra","Isola Baker, Isola Howland, Isola Jarvis, Atollo Johnston, Reef Kingman, Isole Midway, Atollo Palmyra",baker-island-howland-island-jarvis-island-johnston-atoll-kingman-reef-midway-islands-palmyra-atoll,australia-oceania,Australia-Oceania,0.2166667,-176.4666667,country
 253,bg,BD,Bangladesh,Bangladesh,Bangladesh,Bangladesh,bangladesh,south-asia,South Asia,24.0000000,90.0000000,country
 94,bb,BB,Barbados,Barbados,Barbados,Barbados,barbados,central-america-n-caribbean,Central America and Caribbean,13.1666667,-59.5333333,country
 158,bo,BY,Belarus,Bielorrusia,Bielorrússia,Bielorussia,belarus,europe,Europe,53.0000000,28.0000000,country
@@ -56,7 +54,6 @@ id,gec_code,iso_code,name_en,name_es,name_pt,name_it,slug_en,region_slug,region,
 10,cn,KM,Comoros,Comoras,Comores,Comore,comoros,africa,Africa,-12.1666667,44.2500000,country
 7,cf,CG,Congo (Brazzaville),Congo (Brazzaville),Congo (Brazzaville),Congo (Brazzaville),congo-brazzaville,africa,Africa,-1.0000000,15.0000000,country
 68,cw,CK,Cook Islands,Islas Cook,Ilhas Cook,Isole Cook,cook-islands,australia-oceania,Australia-Oceania,-21.2333333,-159.7666667,country
-67,cr,AU,Coral Sea Islands,Islas del Mar de Coral,Ilhas do Mar de Coral,Isole della Coral Sea,coral-sea-islands,australia-oceania,Australia-Oceania,-18.0000000,152.0000000,country
 99,cs,CR,Costa Rica,Costa Rica,Costa Rica,Costa Rica,costa-rica,central-america-n-caribbean,Central America and Caribbean,10.0000000,-84.0000000,country
 22,iv,CI,Côte d'Ivoire,Costa de Marfil,Costa do Marfim,Costa d'Avorio,candocircte-divoire,africa,Africa,8.0000000,-5.0000000,country
 174,hr,HR,Croatia,Croacia,Croácia,Croazia,croatia,europe,Europe,45.1666667,15.5000000,country
@@ -87,7 +84,7 @@ id,gec_code,iso_code,name_en,name_es,name_pt,name_it,slug_en,region_slug,region,
 71,fp,PF,French Polynesia,Polinesia Francesa,Polinésia Francesa,Polinesia Francese,french-polynesia,australia-oceania,Australia-Oceania,-15.0000000,-140.0000000,country
 59,fs,TF,French Southern and Antarctic Lands,Tierras Australes y Antárticas Francesas,Terras Austrais e Antárticas Francesas,Territori del Sud e Antartici Francesi,french-southern-and-antarctic-lands,antarctica,Antarctica,-37.8333333,77.5333333,territory
 19,gb,GA,Gabon,Gabón,Gabão,Gabon,gabon,africa,Africa,-1.0000000,11.7500000,country
-212,gz,PS,"Gaza, Gaza Strip","Gaza, Franja de Gaza","Gaza, Faixa de Gaza","Gaza, Striscia di Gaza",gaza-gaza-strip,middle-east,Middle East,31.4166667,34.3333333,country
+212,gz,PS,"Palestine",,,,,middle-east,Middle East,,,country
 211,gg,GE,Georgia,Georgia,Geórgia,Georgia,georgia,middle-east,Middle East,42.0000000,43.5000000,country
 172,gm,DE,Germany,Alemania,Alemanha,Germania,germany,europe,Europe,51.0000000,9.0000000,country
 20,gh,GH,Ghana,Ghana,Gana,Ghana,ghana,africa,Africa,8.0000000,-2.0000000,country
@@ -118,7 +115,6 @@ id,gec_code,iso_code,name_en,name_es,name_pt,name_it,slug_en,region_slug,region,
 214,is,IL,Israel,Israel,Israel,Israele,israel,middle-east,Middle East,31.5000000,34.7500000,country
 178,it,IT,Italy,Italia,Itália,Italia,italy,europe,Europe,42.8333333,12.8333333,country
 108,jm,JM,Jamaica,Jamaica,Jamaica,Giamaica,jamaica,central-america-n-caribbean,Central America and Caribbean,18.2500000,-77.5000000,country
-180,jn,SJ,Jan Mayen,Jan Mayen,Jan Mayen,Jan Mayen,jan-mayen,europe,Europe,71.0000000,-8.0000000,country
 136,ja,JP,Japan,Japón,Japão,Giappone,japan,east-n-southeast-asia,East and Southeast Asia,36.0000000,138.0000000,country
 179,je,JE,Jersey,Jersey,Jersey,Jersey,jersey,europe,Europe,49.2500000,-2.1666667,country
 216,jo,JO,Jordan,Jordania,Jordânia,Giordania,jordan,middle-east,Middle East,31.0000000,36.0000000,country
@@ -220,7 +216,6 @@ id,gec_code,iso_code,name_en,name_es,name_pt,name_it,slug_en,region_slug,region,
 255,ce,LK,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,sri-lanka,south-asia,South Asia,7.0000000,81.0000000,country
 45,su,SD,Sudan,Sudán,Sudão,Sudan,sudan,africa,Africa,15.0000000,30.0000000,country
 246,ns,SR,Suriname,Surinam,Suriname,Suriname,suriname,south-america,South America,4.0000000,-56.0000000,country
-201,sv,SJ,"Svalbard (sometimes referred to as Spitsbergen, the largest island in the archipelago)","Svalbard (a veces referido como Spitsbergen, la isla más grande del archipiélago)","Svalbard (às vezes referido como Spitsbergen, a maior ilha do arquipélago)","Svalbard (a volte chiamata Spitsbergen, la più grande isola dell'arcipelago)",svalbard-sometimes-referred-to-as-spitsbergen-the-largest-island-in-the-archipelago,europe,Europe,78.0000000,20.0000000,country
 202,sw,SE,Sweden,Suecia,Suécia,Svezia,sweden,europe,Europe,62.0000000,15.0000000,country
 203,sz,CH,Switzerland,Suiza,Suíça,Svizzera,switzerland,europe,Europe,47.0000000,8.0000000,country
 222,sy,SY,Syria,Siria,Síria,Siria,syria,middle-east,Middle East,35.0000000,38.0000000,country
@@ -252,9 +247,7 @@ id,gec_code,iso_code,name_en,name_es,name_pt,name_it,slug_en,region_slug,region,
 251,ve,VE,Venezuela,Venezuela,Venezuela,Venezuela,venezuela,south-america,South America,8.0000000,-66.0000000,country
 151,vm,VN,Vietnam,Vietnam,Vietnã,Vietnam,vietnam,east-n-southeast-asia,East and Southeast Asia,16.1666667,107.8333333,country
 123,vq,VI,Virgin Islands,Islas Vírgenes,Ilhas Virgens,Isole Vergini,virgin-islands,central-america-n-caribbean,Central America and Caribbean,18.3333333,-64.8333333,country
-89,wq,UM,Wake Island,Isla Wake,Ilha Wake,Isola Wake,wake-island,australia-oceania,Australia-Oceania,19.2833333,166.6500000,country
 88,wf,WF,Wallis and Futuna,Wallis y Futuna,Wallis e Futuna,Wallis e Futuna,wallis-and-futuna,australia-oceania,Australia-Oceania,-13.3000000,-176.2000000,country
-224,we,PS,West Bank,Cisjordania,Cisjordânia,Cisgiordania,west-bank,middle-east,Middle East,32.0000000,35.2500000,country
 53,wi,EH,Western Sahara,Sahara Occidental,Sahara Ocidental,Sahara Occidentale,western-sahara,africa,Africa,24.5000000,-13.0000000,country
 261,xx,XX,World,Mundo,Mundo,Mondo,world,world,World,,,world
 225,ym,YE,Yemen,Yemen,Iémen,Yemen,yemen,middle-east,Middle East,15.0000000,48.0000000,country

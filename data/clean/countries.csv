@@ -11,16 +11,10 @@ AG,Antigua and Barbuda,Central America and Caribbean,443.0
 AR,Argentina,South America,2780400.0
 AM,Armenia,Middle East,29743.0
 AW,Aruba,Central America and Caribbean,180.0
-AU,Ashmore and Cartier Islands,Australia-Oceania,5.0
-AU,Ashmore and Cartier Islands,Australia-Oceania,7741220.0
-AU,Ashmore and Cartier Islands,Australia-Oceania,3.0
-AU,Australia,Australia-Oceania,5.0
 AU,Australia,Australia-Oceania,7741220.0
-AU,Australia,Australia-Oceania,3.0
 AT,Austria,Europe,83871.0
 AZ,Azerbaijan,Middle East,86600.0
 BH,Bahrain,Middle East,760.0
-UM,"Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll",Australia-Oceania,7.0
 BD,Bangladesh,South Asia,148460.0
 BB,Barbados,Central America and Caribbean,430.0
 BY,Belarus,Europe,207600.0
@@ -56,9 +50,6 @@ CO,Colombia,South America,1138910.0
 KM,Comoros,Africa,2235.0
 CG,Congo (Brazzaville),Africa,342000.0
 CK,Cook Islands,Australia-Oceania,236.0
-AU,Coral Sea Islands,Australia-Oceania,5.0
-AU,Coral Sea Islands,Australia-Oceania,7741220.0
-AU,Coral Sea Islands,Australia-Oceania,3.0
 CR,Costa Rica,Central America and Caribbean,51100.0
 CI,Côte d'Ivoire,Africa,322463.0
 HR,Croatia,Europe,56594.0
@@ -87,8 +78,7 @@ FR,France,Europe,643801.0
 PF,French Polynesia,Australia-Oceania,4167.0
 TF,French Southern and Antarctic Lands,Antarctica,55.0
 GA,Gabon,Africa,267667.0
-PS,"Gaza, Gaza Strip",Middle East,360.0
-PS,"Gaza, Gaza Strip",Middle East,5860.0
+PS,Palestine,Middle East,6220.0
 GE,Georgia,Middle East,69700.0
 DE,Germany,Europe,357022.0
 GH,Ghana,Africa,238533.0
@@ -118,8 +108,6 @@ IM,Isle of Man,Europe,572.0
 IL,Israel,Middle East,21937.0
 IT,Italy,Europe,301340.0
 JM,Jamaica,Central America and Caribbean,10991.0
-SJ,Jan Mayen,Europe,377.0
-SJ,Jan Mayen,Europe,62045.0
 JP,Japan,East and Southeast Asia,377915.0
 JE,Jersey,Europe,116.0
 JO,Jordan,Middle East,89342.0
@@ -215,8 +203,6 @@ ES,Spain,Europe,505370.0
 LK,Sri Lanka,South Asia,65610.0
 SD,Sudan,Africa,1861484.0
 SR,Suriname,South America,163820.0
-SJ,"Svalbard (sometimes referred to as Spitsbergen, the largest island in the archipelago)",Europe,377.0
-SJ,"Svalbard (sometimes referred to as Spitsbergen, the largest island in the archipelago)",Europe,62045.0
 SE,Sweden,Europe,450295.0
 CH,Switzerland,Europe,41277.0
 SY,Syria,Middle East,187437.0
@@ -248,10 +234,7 @@ VU,Vanuatu,Australia-Oceania,12189.0
 VE,Venezuela,South America,912050.0
 VN,Vietnam,East and Southeast Asia,331210.0
 VI,Virgin Islands,Central America and Caribbean,1910.0
-UM,Wake Island,Australia-Oceania,7.0
 WF,Wallis and Futuna,Australia-Oceania,142.0
-PS,West Bank,Middle East,360.0
-PS,West Bank,Middle East,5860.0
 EH,Western Sahara,Africa,266000.0
 YE,Yemen,Middle East,527968.0
 ZM,Zambia,Africa,752618.0

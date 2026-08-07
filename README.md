@@ -23,3 +23,4 @@ In clean.py, I modify the data quite severely. This section is to explain why:
 - For cities specifically, I'm limiting them to capitals and cities >500k population, since 50,000 entries is a bit much
 - Adding HDI to indicators, as I feel it's a good metric to ask questions about, and GDP to countries/economy for the same reasons
 - Also migrated area from the population CSV into the countries CSV
+- Removed a few countries/cities from each original dataframe that conflicted with the ISO of another country, as they can't repeat on the schema (mostly territories). Only big change I combined the Gaza Strip and West Bank data into one under 'Palestine', which geopolitically isn't really correct, but works for this scale of project, and changed territory's ISO codes to that of their actual owners
