@@ -1,0 +1,262 @@
+id,gec_code,iso_code,name_en,name_es,name_pt,name_it,slug_en,region_slug,region,latitude,longitude,category
+252,af,AF,Afghanistan,Afganistán,Afeganistão,Afghanistan,afghanistan,south-asia,South Asia,33.0000000,65.0000000,country
+155,ax,XX,Akrotiri,Akrotiri,Akrotiri,Akrotiri,akrotiri,europe,Europe,34.6166667,32.9666667,country
+152,al,AL,Albania,Albania,Albânia,Albania,albania,europe,Europe,41.0000000,20.0000000,country
+1,ag,DZ,Algeria,Argelia,Argélia,Algeria,algeria,africa,Africa,28.0000000,3.0000000,country
+61,aq,AS,American Samoa,Samoa Americana,Samoa Americana,Samoa Americane,american-samoa,australia-oceania,Australia-Oceania,-14.3333333,-170.0000000,country
+153,an,AD,Andorra,Andorra,Andorra,Andorra,andorra,europe,Europe,42.5000000,1.5000000,country
+2,ao,AO,Angola,Angola,Angola,Angola,angola,africa,Africa,-12.5000000,18.5000000,country
+93,av,AI,Anguilla,Anguila,Anguilla,Anguilla,anguilla,central-america-n-caribbean,Central America and Caribbean,18.2500000,-63.1666667,country
+57,ay,AQ,Antarctica,Antártida,Antártica,Antartide,antarctica,antarctica,Antarctica,-90.0000000,0.0000000,territory
+92,ac,AG,Antigua and Barbuda,Antigua y Barbuda,Antígua e Barbuda,Antigua e Barbuda,antigua-and-barbuda,central-america-n-caribbean,Central America and Caribbean,17.0500000,-61.8000000,country
+235,xq,XX,Arctic Ocean,Océano Ártico,Oceano Ártico,Oceano Artico,arctic-ocean,oceans,Oceans,90.0000000,0.0000000,ocean
+238,ar,AR,Argentina,Argentina,Argentina,Argentina,argentina,south-america,South America,-34.0000000,-64.0000000,country
+209,am,AM,Armenia,Armenia,Armênia,Armenia,armenia,middle-east,Middle East,40.0000000,45.0000000,country
+91,aa,AW,Aruba,Aruba,Aruba,Aruba,aruba,central-america-n-caribbean,Central America and Caribbean,12.5000000,-69.9666667,country
+63,at,AU,Ashmore and Cartier Islands,Islas Ashmore y Cartier,Ilhas Ashmore e Cartier,Isole Ashmore e Cartier,ashmore-and-cartier-islands,australia-oceania,Australia-Oceania,-12.4166667,123.3333333,country
+236,zh,XX,Atlantic Ocean,Océano Atlántico,Oceano Atlântico,Oceano Atlantico,atlantic-ocean,oceans,Oceans,0.0000000,-25.0000000,ocean
+62,as,AU,Australia,Australia,Austrália,Australia,australia,australia-oceania,Australia-Oceania,-27.0000000,133.0000000,country
+154,au,AT,Austria,Austria,Áustria,Austria,austria,europe,Europe,47.3333333,13.3333333,country
+208,aj,AZ,Azerbaijan,Azerbaiyán,Azerbaijão,Azerbaigian,azerbaijan,middle-east,Middle East,40.5000000,47.5000000,country
+210,ba,BH,Bahrain,Bahréin,Bahrein,Bahrain,bahrain,middle-east,Middle East,26.0000000,50.5500000,country
+87,um,UM,"Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll","Isla Baker, Isla Howland, Isla Jarvis, Atolón Johnston, Arrecife Kingman, Islas Midway, Atolón Palmyra","Ilha Baker, Ilha Howland, Ilha Jarvis, Atol Johnston, Recife Kingman, Ilhas Midway, Atol Palmyra","Isola Baker, Isola Howland, Isola Jarvis, Atollo Johnston, Reef Kingman, Isole Midway, Atollo Palmyra",baker-island-howland-island-jarvis-island-johnston-atoll-kingman-reef-midway-islands-palmyra-atoll,australia-oceania,Australia-Oceania,0.2166667,-176.4666667,country
+253,bg,BD,Bangladesh,Bangladesh,Bangladesh,Bangladesh,bangladesh,south-asia,South Asia,24.0000000,90.0000000,country
+94,bb,BB,Barbados,Barbados,Barbados,Barbados,barbados,central-america-n-caribbean,Central America and Caribbean,13.1666667,-59.5333333,country
+158,bo,BY,Belarus,Bielorrusia,Bielorrússia,Bielorussia,belarus,europe,Europe,53.0000000,28.0000000,country
+156,be,BE,Belgium,Bélgica,Bélgica,Belgio,belgium,europe,Europe,50.8333333,4.0000000,country
+96,bh,BZ,Belize,Belice,Belize,Belize,belize,central-america-n-caribbean,Central America and Caribbean,17.2500000,-88.7500000,country
+4,bn,BJ,Benin,Benín,Benin,Benin,benin,africa,Africa,9.5000000,2.2500000,country
+226,bd,BM,Bermuda,Bermudas,Bermudas,Bermuda,bermuda,north-america,North America,32.3333333,-64.7500000,country
+254,bt,BT,Bhutan,Bután,Butão,Bhutan,bhutan,south-asia,South Asia,27.5000000,90.5000000,country
+239,bl,BO,Bolivia,Bolivia,Bolívia,Bolivia,bolivia,south-america,South America,-17.0000000,-65.0000000,country
+157,bk,BA,Bosnia and Herzegovina,Bosnia y Herzegovina,Bósnia e Herzegovina,Bosnia ed Erzegovina,bosnia-and-herzegovina,europe,Europe,44.0000000,18.0000000,country
+3,bc,BW,Botswana,Botsuana,Botsuana,Botswana,botswana,africa,Africa,-22.0000000,24.0000000,country
+58,bv,BV,Bouvet Island,Isla Bouvet,Ilha Bouvet,Isola Bouvet,bouvet-island,antarctica,Antarctica,-54.4333333,3.4000000,territory
+240,br,BR,Brazil,Brasil,Brasil,Brasile,brazil,south-america,South America,-10.0000000,-55.0000000,country
+257,io,IO,British Indian Ocean Territory,Territorio Británico del Océano Índico,Território Britânico do Oceano Índico,Territorio Britannico dell'Oceano Indiano,british-indian-ocean-territory,south-asia,South Asia,-6.0000000,71.5000000,country
+122,vi,VG,British Virgin Islands,Islas Vírgenes Británicas,Ilhas Virgens Britânicas,Isole Vergini Britanniche,british-virgin-islands,central-america-n-caribbean,Central America and Caribbean,18.5000000,-64.5000000,country
+131,bx,BN,Brunei,Brunéi,Brunei,Brunei,brunei,east-n-southeast-asia,East and Southeast Asia,4.5000000,114.6666667,country
+159,bu,BG,Bulgaria,Bulgaria,Bulgária,Bulgaria,bulgaria,europe,Europe,43.0000000,25.0000000,country
+51,uv,BF,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,burkina-faso,africa,Africa,13.0000000,-2.0000000,country
+130,bm,MM,Burma,Birmania,Birmânia,Birmania,burma,east-n-southeast-asia,East and Southeast Asia,22.0000000,98.0000000,country
+5,by,BI,Burundi,Burundi,Burundi,Burundi,burundi,africa,Africa,-3.5000000,30.0000000,country
+12,cv,CV,Cabo Verde,Cabo Verde,Cabo Verde,Capo Verde,cabo-verde,africa,Africa,16.0000000,-24.0000000,country
+132,cb,KH,Cambodia,Camboya,Camboja,Cambogia,cambodia,east-n-southeast-asia,East and Southeast Asia,13.0000000,105.0000000,country
+9,cm,CM,Cameroon,Camerún,Camarões,Camerun,cameroon,africa,Africa,6.0000000,12.0000000,country
+227,ca,CA,Canada,Canadá,Canadá,Canada,canada,north-america,North America,60.0000000,-95.0000000,country
+98,cj,KY,Cayman Islands,Islas Caimán,Ilhas Cayman,Isole Cayman,cayman-islands,central-america-n-caribbean,Central America and Caribbean,19.5000000,-80.5000000,country
+11,ct,CF,Central African Republic,República Centroafricana,República Centro-Africana,Repubblica Centrafricana,central-african-republic,africa,Africa,7.0000000,21.0000000,country
+6,cd,TD,Chad,Chad,Chade,Ciad,chad,africa,Africa,15.0000000,19.0000000,country
+241,ci,CL,Chile,Chile,Chile,Cile,chile,south-america,South America,-30.0000000,-71.0000000,country
+133,ch,CN,China,China,China,Cina,china,east-n-southeast-asia,East and Southeast Asia,35.0000000,105.0000000,country
+74,kt,CX,Christmas Island,Isla de Navidad,Ilha do Natal,Isola di Natale,christmas-island,australia-oceania,Australia-Oceania,-10.5000000,105.6666667,country
+229,ip,XX,Clipperton Island,Isla Clipperton,Ilha Clipperton,Isola Clipperton,clipperton-island,north-america,North America,10.2833333,-109.2166667,country
+65,ck,CC,Cocos (Keeling) Islands,Islas Cocos (Keeling),Ilhas Cocos (Keeling),Isole Cocos (Keeling),cocos-keeling-islands,australia-oceania,Australia-Oceania,-12.5000000,96.8333333,country
+242,co,CO,Colombia,Colombia,Colômbia,Colombia,colombia,south-america,South America,4.0000000,-72.0000000,country
+10,cn,KM,Comoros,Comoras,Comores,Comore,comoros,africa,Africa,-12.1666667,44.2500000,country
+7,cf,CG,Congo (Brazzaville),Congo (Brazzaville),Congo (Brazzaville),Congo (Brazzaville),congo-brazzaville,africa,Africa,-1.0000000,15.0000000,country
+68,cw,CK,Cook Islands,Islas Cook,Ilhas Cook,Isole Cook,cook-islands,australia-oceania,Australia-Oceania,-21.2333333,-159.7666667,country
+67,cr,AU,Coral Sea Islands,Islas del Mar de Coral,Ilhas do Mar de Coral,Isole della Coral Sea,coral-sea-islands,australia-oceania,Australia-Oceania,-18.0000000,152.0000000,country
+99,cs,CR,Costa Rica,Costa Rica,Costa Rica,Costa Rica,costa-rica,central-america-n-caribbean,Central America and Caribbean,10.0000000,-84.0000000,country
+22,iv,CI,Côte d'Ivoire,Costa de Marfil,Costa do Marfim,Costa d'Avorio,candocircte-divoire,africa,Africa,8.0000000,-5.0000000,country
+174,hr,HR,Croatia,Croacia,Croácia,Croazia,croatia,europe,Europe,45.1666667,15.5000000,country
+100,cu,CU,Cuba,Cuba,Cuba,Cuba,cuba,central-america-n-caribbean,Central America and Caribbean,21.5000000,-80.0000000,country
+120,uc,CW,Curacao,Curazao,Curaçao,Curacao,curacao,central-america-n-caribbean,Central America and Caribbean,12.1666667,-69.0000000,country
+160,cy,CY,Cyprus,Chipre,Chipre,Cipro,cyprus,europe,Europe,35.0000000,33.0000000,country
+166,ez,CZ,Czechia,Chequia,República Tcheca,Repubblica Ceca,czechia,europe,Europe,49.7500000,15.5000000,country
+161,da,DK,Denmark,Dinamarca,Dinamarca,Danimarca,denmark,europe,Europe,56.0000000,10.0000000,country
+162,dx,XX,Dhekelia,Dhekelia,Dhekelia,Dhekelia,dhekelia,europe,Europe,34.9833333,33.7500000,country
+13,dj,DJ,Djibouti,Yibuti,Djibuti,Gibuti,djibouti,africa,Africa,11.5000000,43.0000000,country
+101,do,DM,Dominica,Dominica,Dominica,Dominica,dominica,central-america-n-caribbean,Central America and Caribbean,15.4166667,-61.3333333,country
+8,cg,CD,DRC,RDC,RDC,RDC,drc,africa,Africa,0.0000000,25.0000000,country
+243,ec,EC,Ecuador,Ecuador,Equador,Ecuador,ecuador,south-america,South America,-2.0000000,-77.5000000,country
+14,eg,EG,Egypt,Egipto,Egito,Egitto,egypt,africa,Africa,27.0000000,30.0000000,country
+103,es,SV,El Salvador,El Salvador,El Salvador,El Salvador,el-salvador,central-america-n-caribbean,Central America and Caribbean,13.8333333,-88.9166667,country
+15,ek,GQ,Equatorial Guinea,Guinea Ecuatorial,Guiné Equatorial,Guinea Equatoriale,equatorial-guinea,africa,Africa,2.0000000,10.0000000,country
+16,er,ER,Eritrea,Eritrea,Eritreia,Eritrea,eritrea,africa,Africa,15.0000000,39.0000000,country
+165,en,EE,Estonia,Estonia,Estônia,Estonia,estonia,europe,Europe,59.0000000,26.0000000,country
+54,wz,SZ,Eswatini,Eswatini,Eswatini,Eswatini,eswatini,africa,Africa,-26.5000000,31.5000000,country
+17,et,ET,Ethiopia,Etiopía,Etiópia,Etiopia,ethiopia,africa,Africa,8.0000000,38.0000000,country
+163,ee,XX,European Union,Unión Europea,União Europeia,Unione Europea,european-union,europe,Europe,,,other
+244,fk,FK,Falkland Islands (Islas Malvinas),Islas Malvinas (Falkland Islands),Ilhas Falkland (Islas Malvinas),Isole Falkland (Islas Malvinas),falkland-islands-islas-malvinas,south-america,South America,-51.7500000,-59.0000000,country
+168,fo,FO,Faroe Islands,Islas Feroe,Ilhas Faroe,Isole Fær Øer,faroe-islands,europe,Europe,62.0000000,-7.0000000,country
+70,fm,FM,Federated States of Micronesia,Estados Federados de Micronesia,Estados Federados da Micronésia,Stati Federati di Micronesia,federated-states-of-micronesia,australia-oceania,Australia-Oceania,6.9166667,158.2500000,country
+69,fj,FJ,Fiji,Fiyi,Fiji,Figi,fiji,australia-oceania,Australia-Oceania,-18.0000000,175.0000000,country
+167,fi,FI,Finland,Finlandia,Finlândia,Finlandia,finland,europe,Europe,64.0000000,26.0000000,country
+169,fr,FR,France,Francia,França,Francia,france,europe,Europe,46.0000000,2.0000000,country
+71,fp,PF,French Polynesia,Polinesia Francesa,Polinésia Francesa,Polinesia Francese,french-polynesia,australia-oceania,Australia-Oceania,-15.0000000,-140.0000000,country
+59,fs,TF,French Southern and Antarctic Lands,Tierras Australes y Antárticas Francesas,Terras Austrais e Antárticas Francesas,Territori del Sud e Antartici Francesi,french-southern-and-antarctic-lands,antarctica,Antarctica,-37.8333333,77.5333333,territory
+19,gb,GA,Gabon,Gabón,Gabão,Gabon,gabon,africa,Africa,-1.0000000,11.7500000,country
+212,gz,PS,"Gaza, Gaza Strip","Gaza, Franja de Gaza","Gaza, Faixa de Gaza","Gaza, Striscia di Gaza",gaza-gaza-strip,middle-east,Middle East,31.4166667,34.3333333,country
+211,gg,GE,Georgia,Georgia,Geórgia,Georgia,georgia,middle-east,Middle East,42.0000000,43.5000000,country
+172,gm,DE,Germany,Alemania,Alemanha,Germania,germany,europe,Europe,51.0000000,9.0000000,country
+20,gh,GH,Ghana,Ghana,Gana,Ghana,ghana,africa,Africa,8.0000000,-2.0000000,country
+170,gi,GI,Gibraltar,Gibraltar,Gibraltar,Gibilterra,gibraltar,europe,Europe,36.1333333,-5.3500000,country
+173,gr,GR,Greece,Grecia,Grécia,Grecia,greece,europe,Europe,39.0000000,22.0000000,country
+228,gl,GL,Greenland,Groenlandia,Groenlândia,Groenlandia,greenland,north-america,North America,72.0000000,-40.0000000,country
+104,gj,GD,Grenada,Granada,Granada,Grenada,grenada,central-america-n-caribbean,Central America and Caribbean,12.1166667,-61.6666667,country
+72,gq,GU,Guam,Guam,Guam,Guam,guam,australia-oceania,Australia-Oceania,13.4666667,144.7833333,country
+105,gt,GT,Guatemala,Guatemala,Guatemala,Guatemala,guatemala,central-america-n-caribbean,Central America and Caribbean,15.5000000,-90.2500000,country
+171,gk,GG,Guernsey,Guernsey,Guernsey,Guernsey,guernsey,europe,Europe,49.4666667,-2.5833333,country
+21,gv,GN,Guinea,Guinea,Guiné,Guinea,guinea,africa,Africa,11.0000000,-10.0000000,country
+37,pu,GW,Guinea-Bissau,Guinea-Bisáu,Guiné-Bissau,Guinea-Bissau,guinea-bissau,africa,Africa,12.0000000,-15.0000000,country
+245,gy,GY,Guyana,Guyana,Guiana,Guyana,guyana,south-america,South America,5.0000000,-59.0000000,country
+106,ha,HT,Haiti,Haití,Haiti,Haiti,haiti,central-america-n-caribbean,Central America and Caribbean,19.0000000,-72.4166667,country
+60,hm,HM,Heard Island and McDonald Islands,Isla Heard y las Islas McDonald,Ilha Heard e Ilhas McDonald,Isola Heard e Isole McDonald,heard-island-and-mcdonald-islands,antarctica,Antarctica,-53.1000000,72.5166667,territory
+206,vt,VA,Holy See (Vatican City),Santa Sede (Ciudad del Vaticano),Santa Sé (Vaticano),Santa Sede (Città del Vaticano),holy-see-vatican-city,europe,Europe,41.9000000,12.4500000,country
+107,ho,HN,Honduras,Honduras,Honduras,Honduras,honduras,central-america-n-caribbean,Central America and Caribbean,15.0000000,-86.5000000,country
+134,hk,HK,Hong Kong,Hong Kong,Hong Kong,Hong Kong,hong-kong,east-n-southeast-asia,East and Southeast Asia,22.2500000,114.1666667,country
+175,hu,HU,Hungary,Hungría,Hungria,Ungheria,hungary,europe,Europe,47.0000000,20.0000000,country
+176,ic,IS,Iceland,Islandia,Islândia,Islanda,iceland,europe,Europe,65.0000000,-18.0000000,country
+256,in,IN,India,India,Índia,India,india,south-asia,South Asia,20.0000000,77.0000000,country
+234,xo,XX,Indian Ocean,Océano Índico,Oceano Índico,Oceano Indiano,indian-ocean,oceans,Oceans,-20.0000000,80.0000000,ocean
+135,id,ID,Indonesia,Indonesia,Indonésia,Indonesia,indonesia,east-n-southeast-asia,East and Southeast Asia,-5.0000000,120.0000000,country
+213,ir,IR,Iran,Irán,Irã,Iran,iran,middle-east,Middle East,32.0000000,53.0000000,country
+215,iz,IQ,Iraq,Irak,Iraque,Iraq,iraq,middle-east,Middle East,33.0000000,44.0000000,country
+164,ei,IE,Ireland,Irlanda,Irlanda,Irlanda,ireland,europe,Europe,53.0000000,-8.0000000,country
+177,im,IM,Isle of Man,Isla de Man,Ilha de Man,Isola di Man,isle-of-man,europe,Europe,54.2500000,-4.5000000,country
+214,is,IL,Israel,Israel,Israel,Israele,israel,middle-east,Middle East,31.5000000,34.7500000,country
+178,it,IT,Italy,Italia,Itália,Italia,italy,europe,Europe,42.8333333,12.8333333,country
+108,jm,JM,Jamaica,Jamaica,Jamaica,Giamaica,jamaica,central-america-n-caribbean,Central America and Caribbean,18.2500000,-77.5000000,country
+180,jn,SJ,Jan Mayen,Jan Mayen,Jan Mayen,Jan Mayen,jan-mayen,europe,Europe,71.0000000,-8.0000000,country
+136,ja,JP,Japan,Japón,Japão,Giappone,japan,east-n-southeast-asia,East and Southeast Asia,36.0000000,138.0000000,country
+179,je,JE,Jersey,Jersey,Jersey,Jersey,jersey,europe,Europe,49.2500000,-2.1666667,country
+216,jo,JO,Jordan,Jordania,Jordânia,Giordania,jordan,middle-east,Middle East,31.0000000,36.0000000,country
+125,kz,KZ,Kazakhstan,Kazajistán,Cazaquistão,Kazakhstan,kazakhstan,central-asia,Central Asia,48.0000000,68.0000000,country
+23,ke,KE,Kenya,Kenia,Quênia,Kenya,kenya,africa,Africa,1.0000000,38.0000000,country
+73,kr,KI,Kiribati,Kiribati,Kiribati,Kiribati,kiribati,australia-oceania,Australia-Oceania,1.4166667,173.0000000,country
+181,kv,XK,Kosovo,Kosovo,Kosovo,Kosovo,kosovo,europe,Europe,42.5833333,21.0000000,country
+217,ku,KW,Kuwait,Kuwait,Kuwait,Kuwait,kuwait,middle-east,Middle East,29.5000000,45.7500000,country
+124,kg,KG,Kyrgyzstan,Kirguistán,Quirguistão,Kyrgyzstan,kyrgyzstan,central-asia,Central Asia,41.0000000,75.0000000,country
+139,la,LA,Laos,Laos,Laos,Laos,laos,east-n-southeast-asia,East and Southeast Asia,18.0000000,105.0000000,country
+182,lg,LV,Latvia,Letonia,Letônia,Lettonia,latvia,europe,Europe,57.0000000,25.0000000,country
+218,le,LB,Lebanon,Líbano,Líbano,Libano,lebanon,middle-east,Middle East,33.8333333,35.8333333,country
+25,lt,LS,Lesotho,Lesotho,Lesoto,Lesotho,lesotho,africa,Africa,-29.5000000,28.5000000,country
+24,li,LR,Liberia,Liberia,Libéria,Liberia,liberia,africa,Africa,6.5000000,-9.5000000,country
+26,ly,LY,Libya,Libia,Líbia,Libia,libya,africa,Africa,25.0000000,17.0000000,country
+185,ls,LI,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,liechtenstein,europe,Europe,47.2666667,9.5333333,country
+183,lh,LT,Lithuania,Lituania,Lituânia,Lituania,lithuania,europe,Europe,56.0000000,24.0000000,country
+186,lu,LU,Luxembourg,Luxemburgo,Luxemburgo,Lussemburgo,luxembourg,europe,Europe,49.7500000,6.1666667,country
+140,mc,MO,Macau,Macao,Macau,Macau,macau,east-n-southeast-asia,East and Southeast Asia,22.1666667,113.5500000,country
+27,ma,MG,Madagascar,Madagascar,Madagascar,Madagascar,madagascar,africa,Africa,-20.0000000,47.0000000,country
+28,mi,MW,Malawi,Malawi,Malawi,Malawi,malawi,africa,Africa,-13.5000000,34.0000000,country
+142,my,MY,Malaysia,Malasia,Malásia,Malesia,malaysia,east-n-southeast-asia,East and Southeast Asia,2.5000000,112.5000000,country
+258,mv,MV,Maldives,Maldivas,Maldivas,Maldive,maldives,south-asia,South Asia,3.2500000,73.0000000,country
+29,ml,ML,Mali,Mali,Mali,Mali,mali,africa,Africa,17.0000000,-4.0000000,country
+191,mt,MT,Malta,Malta,Malta,Malta,malta,europe,Europe,35.8333333,14.5833333,country
+83,rm,MH,Marshall Islands,Islas Marshall,Ilhas Marshall,Isole Marshall,marshall-islands,australia-oceania,Australia-Oceania,9.0000000,168.0000000,country
+32,mr,MR,Mauritania,Mauritania,Mauritânia,Mauritania,mauritania,africa,Africa,20.0000000,-12.0000000,country
+31,mp,MU,Mauritius,Mauricio,Maurício,Mauritius,mauritius,africa,Africa,-20.2833333,57.5500000,country
+230,mx,MX,Mexico,México,México,Messico,mexico,north-america,North America,23.0000000,-102.0000000,country
+187,md,MD,Moldova,Moldavia,Moldávia,Moldavia,moldova,europe,Europe,47.0000000,29.0000000,country
+190,mn,MC,Monaco,Mónaco,Mônaco,Monaco,monaco,europe,Europe,43.7333333,7.4000000,country
+141,mg,MN,Mongolia,Mongolia,Mongólia,Mongolia,mongolia,east-n-southeast-asia,East and Southeast Asia,46.0000000,105.0000000,country
+188,mj,ME,Montenegro,Montenegro,Montenegro,Montenegro,montenegro,europe,Europe,42.5000000,19.3000000,country
+109,mh,MS,Montserrat,Montserrat,Montserrat,Montserrat,montserrat,central-america-n-caribbean,Central America and Caribbean,16.7500000,-62.2000000,country
+30,mo,MA,Morocco,Marruecos,Marrocos,Marocco,morocco,africa,Africa,28.5000000,-10.0000000,country
+33,mz,MZ,Mozambique,Mozambique,Moçambique,Mozambico,mozambique,africa,Africa,-18.2500000,35.0000000,country
+52,wa,NA,Namibia,Namibia,Namíbia,Namibia,namibia,africa,Africa,-22.0000000,17.0000000,country
+79,nr,NR,Nauru,Nauru,Nauru,Nauru,nauru,australia-oceania,Australia-Oceania,-0.5333333,166.9166667,country
+97,bq,BQ,Navassa Island,Isla Navassa,Ilha Navassa,Isola Navassa,navassa-island,central-america-n-caribbean,Central America and Caribbean,18.4166667,-75.0333333,country
+259,np,NP,Nepal,Nepal,Nepal,Nepal,nepal,south-asia,South Asia,28.0000000,84.0000000,country
+192,nl,NL,Netherlands,Países Bajos,Países Baixos,Paesi Bassi,netherlands,europe,Europe,52.5166667,5.7666667,country
+75,nc,NC,New Caledonia,Nueva Caledonia,Nova Caledônia,Nuova Caledonia,new-caledonia,australia-oceania,Australia-Oceania,-21.5000000,165.5000000,country
+80,nz,NZ,New Zealand,Nueva Zelanda,Nova Zelândia,Nuova Zelanda,new-zealand,australia-oceania,Australia-Oceania,-41.0000000,174.0000000,country
+111,nu,NI,Nicaragua,Nicaragua,Nicarágua,Nicaragua,nicaragua,central-america-n-caribbean,Central America and Caribbean,13.0000000,-85.0000000,country
+34,ng,NE,Niger,Níger,Níger,Niger,niger,africa,Africa,16.0000000,8.0000000,country
+35,ni,NG,Nigeria,Nigeria,Nigéria,Nigeria,nigeria,africa,Africa,10.0000000,8.0000000,country
+76,ne,NU,Niue,Niue,Niue,Niue,niue,australia-oceania,Australia-Oceania,-19.0333333,-169.8666667,country
+77,nf,NF,Norfolk Island,Isla Norfolk,Ilha Norfolk,Isola Norfolk,norfolk-island,australia-oceania,Australia-Oceania,-29.0333333,167.9500000,country
+66,cq,MP,Northern Mariana Islands,Islas Marianas del Norte,Ilhas Marianas do Norte,Isole Marianne Settentrionali,northern-mariana-islands,australia-oceania,Australia-Oceania,15.2000000,145.7500000,country
+137,kn,KP,North Korea,Corea del Norte,Coreia do Norte,Corea del Nord,north-korea,east-n-southeast-asia,East and Southeast Asia,40.0000000,127.0000000,country
+189,mk,MK,North Macedonia,Macedonia del Norte,Macedônia do Norte,Macedonia del Nord,north-macedonia,europe,Europe,41.8333333,22.0000000,country
+193,no,NO,Norway,Noruega,Noruega,Norvegia,norway,europe,Europe,62.0000000,10.0000000,country
+233,oo,XX,Ocean,Océano,Oceano,Oceano,ocean,oceans,Oceans,-60.0000000,90.0000000,ocean
+219,mu,OM,Oman,Omán,Omã,Oman,oman,middle-east,Middle East,21.0000000,57.0000000,country
+237,zn,XX,Pacific Ocean,Océano Pacífico,Oceano Pacífico,Oceano Pacifico,pacific-ocean,oceans,Oceans,0.0000000,-160.0000000,ocean
+260,pk,PK,Pakistan,Pakistán,Paquistão,Pakistan,pakistan,south-asia,South Asia,30.0000000,70.0000000,country
+82,ps,PW,Palau,Palau,Palau,Palau,palau,australia-oceania,Australia-Oceania,7.5000000,134.5000000,country
+112,pm,PA,Panama,Panamá,Panamá,Panama,panama,central-america-n-caribbean,Central America and Caribbean,9.0000000,-80.0000000,country
+145,pp,PG,Papua New Guinea,Papúa Nueva Guinea,Papua Nova Guiné,Papua Nuova Guinea,papua-new-guinea,east-n-southeast-asia,East and Southeast Asia,-6.0000000,147.0000000,country
+143,pf,XX,Paracel Islands,Islas Paracel,Ilhas Paracel,Isole Paracel,paracel-islands,east-n-southeast-asia,East and Southeast Asia,16.5000000,112.0000000,country
+247,pa,PY,Paraguay,Paraguay,Paraguai,Paraguay,paraguay,south-america,South America,-23.0000000,-58.0000000,country
+248,pe,PE,Peru,Perú,Peru,Perù,peru,south-america,South America,-10.0000000,-76.0000000,country
+146,rp,PH,Philippines,Filipinas,Filipinas,Filippine,philippines,east-n-southeast-asia,East and Southeast Asia,13.0000000,122.0000000,country
+81,pc,PN,Pitcairn Islands,Islas Pitcairn,Ilhas Pitcairn,Isole Pitcairn,pitcairn-islands,australia-oceania,Australia-Oceania,-25.0666667,-130.1000000,country
+194,pl,PL,Poland,Polonia,Polônia,Polonia,poland,europe,Europe,52.0000000,20.0000000,country
+195,po,PT,Portugal,Portugal,Portugal,Portogallo,portugal,europe,Europe,39.5000000,-8.0000000,country
+114,rq,PR,Puerto Rico,Puerto Rico,Porto Rico,Porto Rico,puerto-rico,central-america-n-caribbean,Central America and Caribbean,18.2500000,-66.5000000,country
+220,qa,QA,Qatar,Catar,Catar,Qatar,qatar,middle-east,Middle East,25.5000000,51.2500000,country
+197,ro,RO,Romania,Rumania,Romênia,Romania,romania,europe,Europe,46.0000000,25.0000000,country
+126,rs,RU,Russia,Rusia,Rússia,Russia,russia,central-asia,Central Asia,60.0000000,100.0000000,country
+38,rw,RW,Rwanda,Ruanda,Ruanda,Ruanda,rwanda,africa,Africa,-2.0000000,30.0000000,country
+117,tb,BL,Saint Barthelemy,San Bartolomé,São Bartolomeu,Saint Barthelemy,saint-barthelemy,central-america-n-caribbean,Central America and Caribbean,18.5000000,-63.4166667,country
+42,sh,SH,"Saint Helena, Ascension, and Tristan da Cunha","Santa Elena, Ascensión y Tristán de Acuña","Santa Helena, Ascensão e Tristão da Cunha","Sant'Elena, Ascensione e Tristan da Cunha",saint-helena-ascension-and-tristan-da-cunha,africa,Africa,-15.9500000,-5.7000000,country
+115,sc,KN,Saint Kitts and Nevis,San Cristóbal y Nieves,São Cristóvão e Nevis,Saint Kitts e Nevis,saint-kitts-and-nevis,central-america-n-caribbean,Central America and Caribbean,17.3333333,-62.7500000,country
+116,st,LC,Saint Lucia,Santa Lucía,Santa Lúcia,Santa Lucia,saint-lucia,central-america-n-caribbean,Central America and Caribbean,13.8833333,-60.9666667,country
+113,rn,MF,Saint Martin,San Martín,São Martinho,Saint Martin,saint-martin,central-america-n-caribbean,Central America and Caribbean,18.0833333,-63.9500000,country
+231,sb,PM,Saint Pierre and Miquelon,San Pedro y Miquelón,São Pedro e Miquelon,Saint Pierre e Miquelon,saint-pierre-and-miquelon,north-america,North America,46.8333333,-56.3333333,country
+121,vc,VC,Saint Vincent and the Grenadines,San Vicente y las Granadinas,São Vicente e Granadinas,Saint Vincent e le Grenadine,saint-vincent-and-the-grenadines,central-america-n-caribbean,Central America and Caribbean,13.2500000,-61.2000000,country
+90,ws,WS,Samoa,Samoa,Samoa,Samoa,samoa,australia-oceania,Australia-Oceania,-13.5833333,-172.3333333,country
+199,sm,SM,San Marino,San Marino,San Marino,San Marino,san-marino,europe,Europe,43.7666667,12.4166667,country
+47,tp,ST,Sao Tome and Principe,Sao Tomé y Príncipe,São Tomé e Príncipe,São Tomé e Príncipe,sao-tome-and-principe,africa,Africa,1.0000000,7.0000000,country
+221,sa,SA,Saudi Arabia,Arabia Saudita,Arábia Saudita,Arabia Saudita,saudi-arabia,middle-east,Middle East,25.0000000,45.0000000,country
+41,sg,SN,Senegal,Senegal,Senegal,Senegal,senegal,africa,Africa,14.0000000,-14.0000000,country
+196,ri,RS,Serbia,Serbia,Sérvia,Serbia,serbia,europe,Europe,44.0000000,21.0000000,country
+39,se,SC,Seychelles,Seychelles,Seychelles,Seychelles,seychelles,africa,Africa,-4.5833333,55.6666667,country
+43,sl,SL,Sierra Leone,Sierra Leona,Serra Leoa,Sierra Leone,sierra-leone,africa,Africa,8.5000000,-11.5000000,country
+147,sn,SG,Singapore,Singapur,Cingapura,Singapore,singapore,east-n-southeast-asia,East and Southeast Asia,1.3666667,103.8000000,country
+110,nn,SX,Sint Maarten,Sint Maarten,Sint Maarten,Sint Maarten,sint-maarten,central-america-n-caribbean,Central America and Caribbean,18.0666667,-63.0666667,country
+184,lo,SK,Slovakia,Eslovaquia,Eslováquia,Slovacchia,slovakia,europe,Europe,48.6666667,19.5000000,country
+198,si,SI,Slovenia,Eslovenia,Eslovênia,Slovenia,slovenia,europe,Europe,46.1166667,14.8166667,country
+64,bp,SB,Solomon Islands,Islas Salomón,Ilhas Salomão,Isole Salomone,solomon-islands,australia-oceania,Australia-Oceania,-8.0000000,159.0000000,country
+44,so,SO,Somalia,Somalia,Somália,Somalia,somalia,africa,Africa,10.0000000,49.0000000,country
+40,sf,ZA,South Africa,Sudáfrica,África do Sul,Sudafrica,south-africa,africa,Africa,-29.0000000,24.0000000,country
+249,sx,GS,South Georgia and South Sandwich Islands,Islas Georgias del Sur y Sandwich del Sur,Geórgia do Sul e Ilhas Sandwich do Sul,Georgia del Sud e Isole Sandwich Meridionali,south-georgia-and-south-sandwich-islands,south-america,South America,-54.5000000,-37.0000000,country
+138,ks,KR,South Korea,Corea del Sur,Coreia do Sul,Corea del Sud,south-korea,east-n-southeast-asia,East and Southeast Asia,37.0000000,127.5000000,country
+36,od,SS,South Sudan,Sudán del Sur,Sudão do Sul,Sudan del Sud,south-sudan,africa,Africa,8.0000000,30.0000000,country
+200,sp,ES,Spain,España,Espanha,Spagna,spain,europe,Europe,40.0000000,-4.0000000,country
+144,pg,XX,Spratly Islands,Islas Spratly,Ilhas Spratly,Isole Spratly,spratly-islands,east-n-southeast-asia,East and Southeast Asia,8.6333333,111.9166667,country
+255,ce,LK,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,sri-lanka,south-asia,South Asia,7.0000000,81.0000000,country
+45,su,SD,Sudan,Sudán,Sudão,Sudan,sudan,africa,Africa,15.0000000,30.0000000,country
+246,ns,SR,Suriname,Surinam,Suriname,Suriname,suriname,south-america,South America,4.0000000,-56.0000000,country
+201,sv,SJ,"Svalbard (sometimes referred to as Spitsbergen, the largest island in the archipelago)","Svalbard (a veces referido como Spitsbergen, la isla más grande del archipiélago)","Svalbard (às vezes referido como Spitsbergen, a maior ilha do arquipélago)","Svalbard (a volte chiamata Spitsbergen, la più grande isola dell'arcipelago)",svalbard-sometimes-referred-to-as-spitsbergen-the-largest-island-in-the-archipelago,europe,Europe,78.0000000,20.0000000,country
+202,sw,SE,Sweden,Suecia,Suécia,Svezia,sweden,europe,Europe,62.0000000,15.0000000,country
+203,sz,CH,Switzerland,Suiza,Suíça,Svizzera,switzerland,europe,Europe,47.0000000,8.0000000,country
+222,sy,SY,Syria,Siria,Síria,Siria,syria,middle-east,Middle East,35.0000000,38.0000000,country
+150,tw,TW,Taiwan,Taiwán,Taiwan,Taiwan,taiwan,east-n-southeast-asia,East and Southeast Asia,23.5000000,121.0000000,country
+127,ti,TJ,Tajikistan,Tayikistán,Tajiquistão,Tagikistan,tajikistan,central-asia,Central Asia,39.0000000,71.0000000,country
+49,tz,TZ,Tanzania,Tanzania,Tanzânia,Tanzania,tanzania,africa,Africa,-6.0000000,35.0000000,country
+148,th,TH,Thailand,Tailandia,Tailândia,Thailandia,thailand,east-n-southeast-asia,East and Southeast Asia,15.0000000,100.0000000,country
+95,bf,BS,The Bahamas,Las Bahamas,As Bahamas,Le Bahamas,the-bahamas,central-america-n-caribbean,Central America and Caribbean,24.2500000,-76.0000000,country
+102,dr,DO,The Dominican,El Dominicano,O Dominicano,Il Domenicano,the-dominican,central-america-n-caribbean,Central America and Caribbean,19.0000000,-70.6666667,country
+18,ga,GM,The Gambia,Gambia,Gâmbia,La Gambia,the-gambia,africa,Africa,13.4666667,-16.5666667,country
+149,tt,TL,Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,timor-leste,east-n-southeast-asia,East and Southeast Asia,-8.8333333,125.9166667,country
+46,to,TG,Togo,Togo,Togo,Togo,togo,africa,Africa,8.0000000,1.1666667,country
+84,tl,TK,Tokelau,Tokelau,Tokelau,Tokelau,tokelau,australia-oceania,Australia-Oceania,-9.0000000,-172.0000000,country
+85,tn,TO,Tonga,Tonga,Tonga,Tonga,tonga,australia-oceania,Australia-Oceania,-20.0000000,-175.0000000,country
+118,td,TT,Trinidad and Tobago,Trinidad y Tobago,Trinidad e Tobago,Trinidad e Tobago,trinidad-and-tobago,central-america-n-caribbean,Central America and Caribbean,11.0000000,-61.0000000,country
+48,ts,TN,Tunisia,Túnez,Tunísia,Tunisia,tunisia,africa,Africa,34.0000000,9.0000000,country
+223,tu,TR,Turkey,Turquía,Turquia,Turchia,turkey,middle-east,Middle East,39.0000000,35.0000000,country
+128,tx,TM,Turkmenistan,Turkmenistán,Turcomenistão,Turkmenistan,turkmenistan,central-asia,Central Asia,40.0000000,60.0000000,country
+119,tk,TC,Turks and Caicos Islands,Islas Turcas y Caicos,Ilhas Turcas e Caicos,Isole Turks e Caicos,turks-and-caicos-islands,central-america-n-caribbean,Central America and Caribbean,21.7500000,-71.5833333,country
+86,tv,TV,Tuvalu,Tuvalu,Tuvalu,Tuvalu,tuvalu,australia-oceania,Australia-Oceania,-8.0000000,178.0000000,country
+50,ug,UG,Uganda,Uganda,Uganda,Uganda,uganda,africa,Africa,1.0000000,32.0000000,country
+205,up,UA,Ukraine,Ucrania,Ucrânia,Ucraina,ukraine,europe,Europe,49.0000000,32.0000000,country
+207,ae,AE,United Arab Emirates,Emiratos Árabes Unidos,Emirados Árabes Unidos,Emirati Arabi Uniti,united-arab-emirates,middle-east,Middle East,24.0000000,54.0000000,country
+204,uk,GB,United Kingdom,Reino Unido,Reino Unido,Regno Unito,united-kingdom,europe,Europe,54.0000000,-2.0000000,country
+232,us,US,United States,Estados Unidos,Estados Unidos,Stati Uniti,united-states,north-america,North America,38.0000000,-97.0000000,country
+250,uy,UY,Uruguay,Uruguay,Uruguai,Uruguay,uruguay,south-america,South America,-33.0000000,-56.0000000,country
+129,uz,UZ,Uzbekistan,Uzbekistán,Uzbequistão,Uzbekistan,uzbekistan,central-asia,Central Asia,41.0000000,64.0000000,country
+78,nh,VU,Vanuatu,Vanuatu,Vanuatu,Vanuatu,vanuatu,australia-oceania,Australia-Oceania,-16.0000000,167.0000000,country
+251,ve,VE,Venezuela,Venezuela,Venezuela,Venezuela,venezuela,south-america,South America,8.0000000,-66.0000000,country
+151,vm,VN,Vietnam,Vietnam,Vietnã,Vietnam,vietnam,east-n-southeast-asia,East and Southeast Asia,16.1666667,107.8333333,country
+123,vq,VI,Virgin Islands,Islas Vírgenes,Ilhas Virgens,Isole Vergini,virgin-islands,central-america-n-caribbean,Central America and Caribbean,18.3333333,-64.8333333,country
+89,wq,UM,Wake Island,Isla Wake,Ilha Wake,Isola Wake,wake-island,australia-oceania,Australia-Oceania,19.2833333,166.6500000,country
+88,wf,WF,Wallis and Futuna,Wallis y Futuna,Wallis e Futuna,Wallis e Futuna,wallis-and-futuna,australia-oceania,Australia-Oceania,-13.3000000,-176.2000000,country
+224,we,PS,West Bank,Cisjordania,Cisjordânia,Cisgiordania,west-bank,middle-east,Middle East,32.0000000,35.2500000,country
+53,wi,EH,Western Sahara,Sahara Occidental,Sahara Ocidental,Sahara Occidentale,western-sahara,africa,Africa,24.5000000,-13.0000000,country
+261,xx,XX,World,Mundo,Mundo,Mondo,world,world,World,,,world
+225,ym,YE,Yemen,Yemen,Iémen,Yemen,yemen,middle-east,Middle East,15.0000000,48.0000000,country
+55,za,ZM,Zambia,Zambia,Zâmbia,Zambia,zambia,africa,Africa,-15.0000000,30.0000000,country
+56,zi,ZW,Zimbabwe,Zimbabue,Zimbábue,Zimbabwe,zimbabwe,africa,Africa,-20.0000000,30.0000000,country

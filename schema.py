@@ -1,0 +1,1 @@
+# Creates SQLite db, defines tables, imports cleaned CSVs to use
