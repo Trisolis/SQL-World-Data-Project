@@ -12,6 +12,7 @@ In this project, I use SQLite and Python to clean up, then examine a series of d
 
 ## Datasets
 Using Global Countries, Global Cities, Global Economy, and Global Population datasets from [Bamwor](https://bamwor.com/en/datasets)
+Using HDI and GDP data from Our World in Data ([HDI](https://ourworldindata.org/grapher/human-development-index), [GDP](https://ourworldindata.org/grapher/gdp-worldbank-constant-usd))
 
 ## Modifications
 In clean.py, I modify the data quite severely. This section is to explain why:
@@ -20,3 +21,5 @@ In clean.py, I modify the data quite severely. This section is to explain why:
 - Limit columns to only those I'm actually going to use (dates of data retrieval, slugs, and excess codes I deemed unimportant)
 - Renamed columns so they could be easily referred to in queries.sql
 - For cities specifically, I'm limiting them to capitals and cities >500k population, since 50,000 entries is a bit much
+- Adding HDI to indicators, as I feel it's a good metric to ask questions about, and GDP to countries/economy for the same reasons
+- Also migrated area from the population CSV into the countries CSV
