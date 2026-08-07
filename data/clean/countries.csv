@@ -1,0 +1,248 @@
+iso_code,name,region
+AF,Afghanistan,South Asia
+AL,Albania,Europe
+DZ,Algeria,Africa
+AS,American Samoa,Australia-Oceania
+AD,Andorra,Europe
+AO,Angola,Africa
+AI,Anguilla,Central America and Caribbean
+AQ,Antarctica,Antarctica
+AG,Antigua and Barbuda,Central America and Caribbean
+AR,Argentina,South America
+AM,Armenia,Middle East
+AW,Aruba,Central America and Caribbean
+AU,Ashmore and Cartier Islands,Australia-Oceania
+AU,Australia,Australia-Oceania
+AT,Austria,Europe
+AZ,Azerbaijan,Middle East
+BH,Bahrain,Middle East
+UM,"Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll",Australia-Oceania
+BD,Bangladesh,South Asia
+BB,Barbados,Central America and Caribbean
+BY,Belarus,Europe
+BE,Belgium,Europe
+BZ,Belize,Central America and Caribbean
+BJ,Benin,Africa
+BM,Bermuda,North America
+BT,Bhutan,South Asia
+BO,Bolivia,South America
+BA,Bosnia and Herzegovina,Europe
+BW,Botswana,Africa
+BV,Bouvet Island,Antarctica
+BR,Brazil,South America
+IO,British Indian Ocean Territory,South Asia
+VG,British Virgin Islands,Central America and Caribbean
+BN,Brunei,East and Southeast Asia
+BG,Bulgaria,Europe
+BF,Burkina Faso,Africa
+MM,Burma,East and Southeast Asia
+BI,Burundi,Africa
+CV,Cabo Verde,Africa
+KH,Cambodia,East and Southeast Asia
+CM,Cameroon,Africa
+CA,Canada,North America
+KY,Cayman Islands,Central America and Caribbean
+CF,Central African Republic,Africa
+TD,Chad,Africa
+CL,Chile,South America
+CN,China,East and Southeast Asia
+CX,Christmas Island,Australia-Oceania
+CC,Cocos (Keeling) Islands,Australia-Oceania
+CO,Colombia,South America
+KM,Comoros,Africa
+CG,Congo (Brazzaville),Africa
+CK,Cook Islands,Australia-Oceania
+AU,Coral Sea Islands,Australia-Oceania
+CR,Costa Rica,Central America and Caribbean
+CI,Côte d'Ivoire,Africa
+HR,Croatia,Europe
+CU,Cuba,Central America and Caribbean
+CW,Curacao,Central America and Caribbean
+CY,Cyprus,Europe
+CZ,Czechia,Europe
+DK,Denmark,Europe
+DJ,Djibouti,Africa
+DM,Dominica,Central America and Caribbean
+CD,DRC,Africa
+EC,Ecuador,South America
+EG,Egypt,Africa
+SV,El Salvador,Central America and Caribbean
+GQ,Equatorial Guinea,Africa
+ER,Eritrea,Africa
+EE,Estonia,Europe
+SZ,Eswatini,Africa
+ET,Ethiopia,Africa
+FK,Falkland Islands (Islas Malvinas),South America
+FO,Faroe Islands,Europe
+FM,Federated States of Micronesia,Australia-Oceania
+FJ,Fiji,Australia-Oceania
+FI,Finland,Europe
+FR,France,Europe
+PF,French Polynesia,Australia-Oceania
+TF,French Southern and Antarctic Lands,Antarctica
+GA,Gabon,Africa
+PS,"Gaza, Gaza Strip",Middle East
+GE,Georgia,Middle East
+DE,Germany,Europe
+GH,Ghana,Africa
+GI,Gibraltar,Europe
+GR,Greece,Europe
+GL,Greenland,North America
+GD,Grenada,Central America and Caribbean
+GU,Guam,Australia-Oceania
+GT,Guatemala,Central America and Caribbean
+GG,Guernsey,Europe
+GN,Guinea,Africa
+GW,Guinea-Bissau,Africa
+GY,Guyana,South America
+HT,Haiti,Central America and Caribbean
+HM,Heard Island and McDonald Islands,Antarctica
+VA,Holy See (Vatican City),Europe
+HN,Honduras,Central America and Caribbean
+HK,Hong Kong,East and Southeast Asia
+HU,Hungary,Europe
+IS,Iceland,Europe
+IN,India,South Asia
+ID,Indonesia,East and Southeast Asia
+IR,Iran,Middle East
+IQ,Iraq,Middle East
+IE,Ireland,Europe
+IM,Isle of Man,Europe
+IL,Israel,Middle East
+IT,Italy,Europe
+JM,Jamaica,Central America and Caribbean
+SJ,Jan Mayen,Europe
+JP,Japan,East and Southeast Asia
+JE,Jersey,Europe
+JO,Jordan,Middle East
+KZ,Kazakhstan,Central Asia
+KE,Kenya,Africa
+KI,Kiribati,Australia-Oceania
+KW,Kuwait,Middle East
+KG,Kyrgyzstan,Central Asia
+LA,Laos,East and Southeast Asia
+LV,Latvia,Europe
+LB,Lebanon,Middle East
+LS,Lesotho,Africa
+LR,Liberia,Africa
+LY,Libya,Africa
+LI,Liechtenstein,Europe
+LT,Lithuania,Europe
+LU,Luxembourg,Europe
+MO,Macau,East and Southeast Asia
+MG,Madagascar,Africa
+MW,Malawi,Africa
+MY,Malaysia,East and Southeast Asia
+MV,Maldives,South Asia
+ML,Mali,Africa
+MT,Malta,Europe
+MH,Marshall Islands,Australia-Oceania
+MR,Mauritania,Africa
+MU,Mauritius,Africa
+MX,Mexico,North America
+MD,Moldova,Europe
+MC,Monaco,Europe
+MN,Mongolia,East and Southeast Asia
+ME,Montenegro,Europe
+MS,Montserrat,Central America and Caribbean
+MA,Morocco,Africa
+MZ,Mozambique,Africa
+NR,Nauru,Australia-Oceania
+BQ,Navassa Island,Central America and Caribbean
+NP,Nepal,South Asia
+NL,Netherlands,Europe
+NC,New Caledonia,Australia-Oceania
+NZ,New Zealand,Australia-Oceania
+NI,Nicaragua,Central America and Caribbean
+NE,Niger,Africa
+NG,Nigeria,Africa
+NU,Niue,Australia-Oceania
+NF,Norfolk Island,Australia-Oceania
+MP,Northern Mariana Islands,Australia-Oceania
+KP,North Korea,East and Southeast Asia
+MK,North Macedonia,Europe
+NO,Norway,Europe
+OM,Oman,Middle East
+PK,Pakistan,South Asia
+PW,Palau,Australia-Oceania
+PA,Panama,Central America and Caribbean
+PG,Papua New Guinea,East and Southeast Asia
+PY,Paraguay,South America
+PE,Peru,South America
+PH,Philippines,East and Southeast Asia
+PN,Pitcairn Islands,Australia-Oceania
+PL,Poland,Europe
+PT,Portugal,Europe
+PR,Puerto Rico,Central America and Caribbean
+QA,Qatar,Middle East
+RO,Romania,Europe
+RU,Russia,Central Asia
+RW,Rwanda,Africa
+BL,Saint Barthelemy,Central America and Caribbean
+SH,"Saint Helena, Ascension, and Tristan da Cunha",Africa
+KN,Saint Kitts and Nevis,Central America and Caribbean
+LC,Saint Lucia,Central America and Caribbean
+MF,Saint Martin,Central America and Caribbean
+PM,Saint Pierre and Miquelon,North America
+VC,Saint Vincent and the Grenadines,Central America and Caribbean
+WS,Samoa,Australia-Oceania
+SM,San Marino,Europe
+ST,Sao Tome and Principe,Africa
+SA,Saudi Arabia,Middle East
+SN,Senegal,Africa
+RS,Serbia,Europe
+SC,Seychelles,Africa
+SL,Sierra Leone,Africa
+SG,Singapore,East and Southeast Asia
+SX,Sint Maarten,Central America and Caribbean
+SK,Slovakia,Europe
+SI,Slovenia,Europe
+SB,Solomon Islands,Australia-Oceania
+SO,Somalia,Africa
+ZA,South Africa,Africa
+GS,South Georgia and South Sandwich Islands,South America
+KR,South Korea,East and Southeast Asia
+SS,South Sudan,Africa
+ES,Spain,Europe
+LK,Sri Lanka,South Asia
+SD,Sudan,Africa
+SR,Suriname,South America
+SJ,"Svalbard (sometimes referred to as Spitsbergen, the largest island in the archipelago)",Europe
+SE,Sweden,Europe
+CH,Switzerland,Europe
+SY,Syria,Middle East
+TW,Taiwan,East and Southeast Asia
+TJ,Tajikistan,Central Asia
+TZ,Tanzania,Africa
+TH,Thailand,East and Southeast Asia
+BS,The Bahamas,Central America and Caribbean
+DO,The Dominican,Central America and Caribbean
+GM,The Gambia,Africa
+TL,Timor-Leste,East and Southeast Asia
+TG,Togo,Africa
+TK,Tokelau,Australia-Oceania
+TO,Tonga,Australia-Oceania
+TT,Trinidad and Tobago,Central America and Caribbean
+TN,Tunisia,Africa
+TR,Turkey,Middle East
+TM,Turkmenistan,Central Asia
+TC,Turks and Caicos Islands,Central America and Caribbean
+TV,Tuvalu,Australia-Oceania
+UG,Uganda,Africa
+UA,Ukraine,Europe
+AE,United Arab Emirates,Middle East
+GB,United Kingdom,Europe
+US,United States,North America
+UY,Uruguay,South America
+UZ,Uzbekistan,Central Asia
+VU,Vanuatu,Australia-Oceania
+VE,Venezuela,South America
+VN,Vietnam,East and Southeast Asia
+VI,Virgin Islands,Central America and Caribbean
+UM,Wake Island,Australia-Oceania
+WF,Wallis and Futuna,Australia-Oceania
+PS,West Bank,Middle East
+EH,Western Sahara,Africa
+YE,Yemen,Middle East
+ZM,Zambia,Africa
+ZW,Zimbabwe,Africa

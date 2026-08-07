@@ -15,4 +15,8 @@ Using Global Countries, Global Cities, Global Economy, and Global Population dat
 
 ## Modifications
 In clean.py, I modify the data quite severely. This section is to explain why:
-- In _.csv, I removed x columns, etc. etc.
+- Used pycountry to get rid of territories (mostly), as they're not the focus of this project
+- Raw CSVs go in, modified/'clean' CSVs come out, named to be easy to refer to and in a separate folder
+- Limit columns to only those I'm actually going to use (dates of data retrieval, slugs, and excess codes I deemed unimportant)
+- Renamed columns so they could be easily referred to in queries.sql
+- For cities specifically, I'm limiting them to capitals and cities >500k population, since 50,000 entries is a bit much
