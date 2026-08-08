@@ -7,12 +7,15 @@ In this project, I use SQLite and Python to clean up, then examine a series of d
 3. python -m venv venv
 4. source venv/Scripts/activate
 5. pip install -r requirements.txt
-6. python main.py
+6. python schema.py
 7. Run!
 
 ## Datasets
 Using Global Countries, Global Cities, Global Economy, and Global Population datasets from [Bamwor](https://bamwor.com/en/datasets)
 Using HDI and GDP data from Our World in Data ([HDI](https://ourworldindata.org/grapher/human-development-index), [GDP](https://ourworldindata.org/grapher/gdp-worldbank-constant-usd))
+
+## Concepts Covered
+Within queries.sql, I cover a multitude of concepts over 25 queries, such as joins, aggregates, subqueries, CASE expressions, and window-style filtering
 
 ## Modifications
 In clean.py, I modify the data quite severely. This section is to explain why:
