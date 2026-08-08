@@ -214,6 +214,25 @@ INNER JOIN economy e ON c.iso_code=e.iso_code
 WHERE gdp > (SELECT SUM(gdp) FROM countries c2 INNER JOIN economy e2 ON c2.iso_code=e2.iso_code WHERE region = 'Africa')
 ORDER BY gdp DESC;
 
--- BONUS. For each region, find countries that rank in the top 25% for GDP per capita, but in the bottom 25% for HDI within their region
+-- BONUS. For each region, find countries that rank in the top 50% for GDP per capita, but in the bottom 50% for HDI within their region
 -- Display each country with its region, GDP per capita, HDI, an income classification label, and the average GDP per capita of its region for comparison
 -- Only include regions where at least 3 countries meet this criteria.
+SELECT c.name, region, gdp_per_capita, hdi, 
+(SELECT AVG(gdp_per_capita) FROM countries c2 JOIN economy e2 ON c2.iso_code=e2.iso_code WHERE c2.region=c.region) AS avg_gdp_per_capita_in_region,
+CASE 
+    WHEN gdp_per_capita IS NULL THEN 'No data'
+    WHEN gdp_per_capita < 4000 THEN  'Low Income'
+    WHEN gdp_per_capita < 12000 THEN  'Low Middle Income'
+    WHEN gdp_per_capita < 40000 THEN  'High Middle Income'
+    ELSE 'High Income'
+END AS income_group
+FROM countries c
+JOIN indicators i ON c.iso_code=i.iso_code
+JOIN economy e ON c.iso_code=e.iso_code
+WHERE (
+  hdi > (SELECT AVG(hdi) FROM indicators) AND
+  NOT gdp_per_capita > (SELECT AVG(gdp_per_capita) FROM economy)
+) OR (
+  NOT hdi > (SELECT AVG(hdi) FROM indicators) AND
+  gdp_per_capita > (SELECT AVG(gdp_per_capita) FROM economy)
+);
