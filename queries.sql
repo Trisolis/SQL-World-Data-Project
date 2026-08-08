@@ -27,7 +27,7 @@ WHERE c.area > (SELECT AVG(area) FROM countries)
 AND i.population > (SELECT AVG(population) FROM indicators)
 ORDER BY i.population DESC;
 
--- 5. Which country has the highest GDP in each region?
+-- 5. Which country has the highest GDP in each region? (ALL not supported)
 SELECT c.region, c.name, e.gdp
 FROM countries c
 JOIN economy e ON c.iso_code=e.iso_code
@@ -39,22 +39,69 @@ WHERE e.gdp = (
 );
 
 -- 6. What are the 10 most densely populated countries?
+SELECT name, density
+FROM indicators
+WHERE density IS NOT NULL
+ORDER BY density DESC
+LIMIT 10;
 
 -- 7. What is the average population density for each region?
+SELECT region, AVG(density)
+FROM countries c
+JOIN indicators i ON c.iso_code=i.iso_code
+GROUP BY(region);
 
 -- 8. What is the total and average GDP for each region, organized by total?
+SELECT region, SUM(gdp), AVG(gdp)
+FROM countries c
+JOIN economy e ON c.iso_code=e.iso_code
+GROUP BY(region)
+ORDER BY SUM(gdp) DESC;
 
--- 9. What are the first and last three characters of every country name?
+-- 9. What are the first and last three characters of every country name? (LEFT not supported)
+SELECT SUBSTRING(name,1,3), SUBSTRING(name,-3)
+FROM countries;
 
 -- 10. How many countries in each region have an HDI above 0.7?
+SELECT region, COUNT(c.name) AS 'no. of countries'
+FROM countries c
+JOIN indicators i ON c.iso_code=i.iso_code
+WHERE hdi > 0.7
+GROUP BY(region)
+ORDER BY COUNT(c.name) DESC;
 
 -- 11. Which countries have a higher life expectancy than the global average?
+SELECT c.name, life_expectancy
+FROM countries c
+JOIN indicators i ON c.iso_code=i.iso_code
+WHERE life_expectancy > (SELECT AVG(life_expectancy) FROM indicators)
+ORDER BY life_expectancy DESC;
 
--- 12. Which countries are missing economic data, and what data do they have?
+-- 12. Which countries have missing data for both HDI and GDP?
+SELECT c.name
+FROM countries c
+JOIN economy e ON c.iso_code=e.iso_code
+JOIN indicators i ON i.iso_code=e.iso_code
+WHERE hdi IS NULL AND gdp IS NULL;
 
 -- 13. What is the average, highest, and lowest life expectancy for each region?
+SELECT region, AVG(life_expectancy), MAX(life_expectancy), MIN(life_expectancy)
+FROM countries c
+JOIN indicators i ON c.iso_code=i.iso_code
+GROUP BY(region)
+ORDER BY AVG(life_expectancy) DESC;
 
 -- 14. Classify countries by GDP per capita with null handling
+SELECT c.name, gdp_per_capita,
+CASE 
+    WHEN gdp_per_capita IS NULL THEN 'No data'
+    WHEN gdp_per_capita < 4000 THEN  'Low Income'
+    WHEN gdp_per_capita < 12000 THEN  'Low Middle Income'
+    WHEN gdp_per_capita < 40000 THEN  'High Middle Income'
+    ELSE 'High Income'
+END AS income_group
+FROM countries c 
+JOIN economy e ON c.iso_code=e.iso_code;
 
 -- 15. How many major cities does each region have, and what is their combined population?
 
